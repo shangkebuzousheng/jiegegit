@@ -1,6 +1,6 @@
-wokao --master
-wokao master v1.1
-wokao branch:b1
+wokao --mymaster
+wokao master v1.2
+wokao branch:master
 wokao
 wokao
 wokao
